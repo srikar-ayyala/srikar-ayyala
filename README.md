@@ -1,11 +1,16 @@
 ### Hi there 👋, my name is Srikar
-#### I am Front end web developer, Software engineer
-I'm passionate about programming and learning everthing I can. I want to make projects that might help other people, or spread awareness or are simply stupid and fun.
-I'm a front end developer and a student at Netaji Subhas University of Technology. I also love to draw whenever I get can 🎨 :) 
+#### I am Full Stack Developer, Software Engineer
+I'm passionate about programming and learning everthing I can. I want to make projects that might help other people, spread awareness or are simply stupid and fun.
 
-Skills: REACT / JS / HTML / CSS / Firebase / Machine Learning
+I have been working professionally as a Full Stack developer and IoT System Designer at Inordinate Industrial Innovations Pvt Ltd for the past 2 years.
 
-- 🌱 learning and improving myself in Web Technologies
+I am a 2024 batch graduate from Netaji Subhas University of Technology.
+
+I also love to draw whenever I get can 🎨 :) 
+
+Skills: React, JavaScript, TypeScript, ElectronJS, WebSocket, MQTT, AWS IoT Core, Spring Boot, REST APIs, Node.js, MongoDB, Python, C++, Machine Learning
+
+- 🌱 learning and improving myself in various software technologies
 - 🔭 working my problem solving abilities and DSA
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: I have a dog named Sparky and he's very cute
